@@ -1,6 +1,6 @@
 import React from 'react'
 import {Container,AppBar,Typography,Grow,Grid} from '@material-ui/core'
-import memories from './components/images/download.jpg'
+import memories from './images/download.jpg'
 import Form from './components/form/Form';
 import Posts from './components/posts/Posts';
 import useStyles from './style'
